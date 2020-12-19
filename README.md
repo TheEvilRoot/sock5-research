@@ -11,10 +11,10 @@ done
 - connect to remote server using socks5 server
 - send request to ipify.org service to get my ip
 - get a response!
+- wrapper class
+- login/pass auth *(not tested yet)*
  
 todo
 -----
 
-- wrapper class
-- login/pass auth
 - lifetime handle
